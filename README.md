@@ -6,8 +6,7 @@
 
 <h2>MIGROS CLONE<h2>
 
-<h4>Technologies<h4>
-
+Technologies;
 
 <li><b><i>UIKit</i></b></li>
 <li><b><i>Swift</i></b></li>
